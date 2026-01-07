@@ -44,8 +44,8 @@ Before contributing, ensure you have:
 
 1. **Fork and Clone the Repository**
    ```bash
-   git clone https://github.com/ev-max2024/EVMAX-SOFT-9.28.2025.git
-   cd EVMAX-SOFT-9.28.2025
+   git clone https://github.com/EV-MAX-INC/EV-FORKIN.git
+   cd EV-FORKIN
    ```
 
 2. **Create a Feature Branch**
