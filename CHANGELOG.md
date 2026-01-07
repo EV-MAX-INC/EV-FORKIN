@@ -224,6 +224,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Multi-cloud support
 - GraphQL API support
 
-[Unreleased]: https://github.com/ev-max2024/EVMAX-SOFT-9.28.2025/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/ev-max2024/EVMAX-SOFT-9.28.2025/compare/v0.1.0...v1.0.0
-[0.1.0]: https://github.com/ev-max2024/EVMAX-SOFT-9.28.2025/releases/tag/v0.1.0
+[Unreleased]: https://github.com/EV-MAX-INC/EV-FORKIN/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/EV-MAX-INC/EV-FORKIN/compare/v0.1.0...v1.0.0
+[0.1.0]: https://github.com/EV-MAX-INC/EV-FORKIN/releases/tag/v0.1.0
